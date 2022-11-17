@@ -1,0 +1,1 @@
+Api feita para utilizar junto com o site que eu criei, o Streaming Front, mas está api também funciona sozinha.
